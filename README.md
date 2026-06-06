@@ -102,3 +102,4 @@ python main.py
 - Bilibili：319079174（罗兰J士）
 
 希望本项目对你有帮助 : )
+ps：其实我更推荐下载AppLauncher_Setup_1.0.exe,因为另一个方式下载的话会把配置文件乱拉
