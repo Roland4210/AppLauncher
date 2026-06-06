@@ -1,0 +1,13 @@
+{
+  "extra_scan_dirs": [
+    "E:/MyTools"
+  ],
+  "scan_depth": 3,
+  "exclude_dirs": [
+    "node_modules",
+    ".git",
+    "__pycache__",
+    "logs",
+    "temp"
+  ]
+}

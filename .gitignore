@@ -1,0 +1,22 @@
+# 扫描结果 — 含个人信息
+scan_result.json
+
+# 本地配置
+scan_config.json
+workflows.json
+
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller 打包产物
+build/
+dist/
+
+# Inno Setup 打包产物
+installer/
+
+# 临时文件
+*.tmp
+*.bak
+*.log

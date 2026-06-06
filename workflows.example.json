@@ -1,0 +1,15 @@
+{
+  "work": {
+    "apps": ["Google Chrome", "VS Code", "Git Bash"],
+    "mode": "parallel"
+  },
+  "gaming": {
+    "apps": ["Steam"],
+    "mode": "parallel",
+    "delay": 3
+  },
+  "dev": {
+    "apps": ["VS Code", "Terminal"],
+    "mode": "sequential"
+  }
+}
